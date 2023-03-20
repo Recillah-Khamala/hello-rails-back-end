@@ -152,7 +152,7 @@ Heroku (Paid)
 <!-- FRONT-END REPOSITORY -->
 ## 💻 Front-end Repository <a name="frontend-repo"></a>
 
-- [Click Here](https://github.com/Recillah-Khamala/hello-react-frontend)
+- [Click Here](https://github.com/Recillah-Khamala/hello-react-front-end)
 
 ## 💻 Front-end App
 
